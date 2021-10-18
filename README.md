@@ -11,6 +11,6 @@
 -xxx.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2332679)
 
 B：[我在AI Studio上获得钻石等级，点亮9个徽章，来互关呀~](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/335435)
